@@ -1,7 +1,7 @@
 
 <h1 align="center">Holla 👋, I'm Sonu Munda</h1>
 <h3 align="center">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🔭 I’m currently working on [restraunt website](https://github.com/SonuMunda/nashto_club.com)
 
