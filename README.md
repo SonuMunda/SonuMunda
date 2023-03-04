@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [restraunt website](https://github.com/SonuMunda/nashto_club.com)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs** & **MongoDB**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SonuMunda)
 
