@@ -15,9 +15,10 @@
 - 📄 Know about my experiences [here](https://sonumunda.github.io/SonuMunda-Portfolio/)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sonu.m.75685) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sonumunda_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-munda-b8806b21a/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SonuMunda_) 
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/sonu.m.75685) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sonumunda_/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sonu-munda-b8806b21a/) 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SonuMunda_) 
 
 ## 💻 Tech Stack:
 
