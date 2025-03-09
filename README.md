@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [here](https://sonumunda.github.io/SonuMunda-Portfolio/)
 
 ## 🌐 Socials:
-[![Facebook](https://img.icons8.com/color/48/facebook.png)](https://www.facebook.com/sonu.m.75685) 
+[![Facebook](https://img.icons8.com/color/96/facebook.png)](https://www.facebook.com/sonu.m.75685) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sonumunda_/) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sonu-munda-b8806b21a/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SonuMunda_) 
