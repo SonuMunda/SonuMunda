@@ -21,6 +21,6 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,git,canva&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,git,canva)](https://skillicons.dev)
           
 
