@@ -9,30 +9,19 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a **Resource Sharing Platform**
-- 🌱 Sharpening my skills in **JavaScript**, especially advanced React & backend integration
+- 🔭 I’m currently working on a **AptResume - Resume-Based Job Matcher**
+- 🌱 Sharpening my skills in **NextJs**
 - 🛠️ Building full-stack web apps with the **MERN stack**
 - 📫 Reach me at: **sonumunda1312@gmail.com**
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/SonuMunda)
-- 📄 View my portfolio [here](https://sonumunda.github.io/SonuMunda-Portfolio/)
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sonu-munda-b8806b21a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/SonuMunda_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/sonumunda_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/sonu.m.75685" target="_blank"><img src="https://img.icons8.com/ios-filled/50/facebook--v1.png" alt="Facebook" width="28"/></a>
-</p>
+- 📄 View my portfolio [here](https://sonumunda.me)
 
 ---
 
 ### 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,nodejs,express,mongodb,nextjs,git,github,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,mui,nodejs,express,mongodb,nextjs,git,github,canva" />
 </p>
 
 ---
